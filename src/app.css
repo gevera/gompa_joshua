@@ -1,0 +1,89 @@
+:root {
+	--brand-lighter: #feffcc;
+	--brand-light: #fdff88;
+	--brand: #dde000;
+	--brand-dark: #c0bd00;
+	--brand-darker: #5e5d00;
+	--secondary: #002323;
+	--black: #001010;
+	--gray-darker: #141414;
+	--gray-dark: #323232;
+	--gray: #808080;
+	--gray-light: #999999;
+	--gray-lighter: #c8d0d0;
+	--gray-white: #f2f4f4;
+}
+* {
+	-webkit-tap-highlight-color: transparent;
+	margin: 0;
+	padding: 0;
+	font-size: 100%;
+	font-weight: normal;
+	border: 0;
+	transition: all 0.3s ease-in-out;
+}
+
+::-webkit-scrollbar {
+	display: none;
+}
+
+html {
+	scroll-behavior: smooth;
+	line-height: 1.5;
+	color: var(--gray-white);
+	box-sizing: border-box;
+	font-size: 1rem;
+	height: 100%;
+	width: 100%;
+	font-family: 'Jomolhari', Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+	html {
+		scroll-behavior: auto;
+	}
+}
+
+input, textarea {
+	padding: 1rem;
+}
+input:focus,
+textarea:focus {
+	outline: none;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+body {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+    color: var(--brand-light);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: var(--brand);
+}
+
+p {
+	padding: 1rem 0;
+	font-size: 1.4rem;
+}
+
+h1, h2, h3, h4 {
+	font-family: 'Cinzel Decorative', cursive;
+	font-size: 1.8rem;
+	text-align: center;
+	padding: 2rem 0;
+}

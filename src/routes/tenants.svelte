@@ -2,6 +2,10 @@
 	import Frame from '../components/Frame.svelte';
 </script>
 
+<svelte:head>
+	<title>Gompa Apartments | Tenants Page</title>
+</svelte:head>
+
 <div class="vajrayana">
 	<h1>Tenants Page</h1>
 

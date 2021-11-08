@@ -4,7 +4,7 @@
 </script>
 
 <svelte:head>
-	<title>Gompa Apartments</title>
+	<title>Gompa Apartments | Main Page</title>
 </svelte:head>
 <div class="mahayana">
 	<div class="hero">
@@ -100,8 +100,13 @@
 			<p>Coming soon</p>
 		</Frame>
 	</div>
-	
-	
+	<div class="upcoming">
+		<Frame>
+			<a href="/upcoming-work">
+				<h3>Upcoming work projects</h3>
+		    </a>
+		</Frame>
+	</div>
 </div>
 
 <style>
@@ -122,7 +127,7 @@
 		grid-template-areas:
 			'. hero hero hero hero .'
 			'activities activities activities activities work work'
-			'activities activities activities activities work work'
+			'activities activities activities activities upcoming upcoming'
 			'projects projects projects projects . .'
 			'tc tc tc name name name'
 			'. . contacts contacts contacts contacts';
@@ -145,6 +150,10 @@
 	.activities {
 		grid-area: activities;
 	}
+
+	.upcoming {
+		grid-area: upcoming;
+	}
 	a {
 		/* text-decoration: underline; */
 		font-style: italic;
@@ -163,7 +172,7 @@
 			grid-template-areas:
 				'. hero hero hero hero .'
 				'activities activities activities activities work work'
-				'activities activities activities activities work work'
+				'activities activities activities activities upcoming upcoming'
 				'projects projects projects projects . .'
 				'tc tc tc name name name';
 		}
@@ -175,6 +184,7 @@
 				'hero hero .'
 				'. activities activities'
 				'projects projects projects'
+				'. upcoming .'
 				'tc tc tc'
 				'name name name'
 				'. work .';
@@ -188,6 +198,7 @@
 				'activities'
 				'projects'
 				'work'
+				'upcoming'
 				'tc'
 				'name';
 		}

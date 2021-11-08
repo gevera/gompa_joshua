@@ -2,13 +2,17 @@
 	import Frame from '../components/Frame.svelte';
 </script>
 
+<svelte:head>
+	<title>Gompa Apartments | Projects Page</title>
+</svelte:head>
+
 <h1>Upcoming Projects</h1>
 <div class="kalu">
 	<div class="bpics">
 		<Frame>
 			<img src="/pics/bike.png" alt="Electric Bike" />
-			<img src="/pics/bike_1.jpeg" alt="Electric Bike" />
-			<img src="/pics/bike_3.jpeg" alt="Electric Bike" />
+			<img src="/pics/bike.jpg" alt="A Man fixing an Electric Bike" />
+			<!-- <img src="/pics/bike_3.jpeg" alt="Electric Bike" /> -->
 			<!-- <img src="/pics/bike_2.jpeg" alt="Electric Bike"> -->
 		</Frame>
 	</div>

@@ -12,6 +12,8 @@
 				},
 				body: JSON.stringify({
 					...objToSend,
+					telephone: `${objToSend.tel} | ${objToSend.email}`,
+					message: `${objToSend.hear} | ${objToSend.content}`,
 					time: new Date(now - 3600000 * 11).toLocaleString('us-US'),
 					group: 'gompa_joshua'
 				})
@@ -28,9 +30,21 @@
 </script>
 
 <form on:submit|preventDefault={sendForm}>
-	<input type="text" placeholder="name" required bind:value={objToSend.name} />
-	<input type="email" placeholder="email" required bind:value={objToSend.telephone} />
-	<textarea rows="5" placeholder="message" required bind:value={objToSend.message} />
+	<label for="name">Your name</label>
+	<input name="name" type="text" placeholder="name" required bind:value={objToSend.name} />
+	<label for="email">Your email</label>
+	<input name="email" type="email" placeholder="email" required bind:value={objToSend.email} />
+	<label for="phone">Your phone</label>
+	<input name="phone" type="tel" placeholder="telephone number"  bind:value={objToSend.tel} />
+	<label for="hear">Who did you hear about us?</label>
+	<select name="hear" id="hear" bind:value={objToSend.hear}>
+		<option value="Word of mouth">Word of mouth</option>
+		<option value="Volunteer or other website">Volunteer or other website</option>
+		<option value="Google search">Google search</option>
+		<option value="Other">Other</option>
+	</select>
+	<label for="content">Your message</label>
+	<textarea name="content" rows="5" placeholder="message" required bind:value={objToSend.content} />
 	<button>Send</button>
 </form>
 
@@ -48,5 +62,13 @@
 	button {
 		padding: 1rem;
 		text-transform: uppercase;
+		background: #cacaca;
+	}
+	button:hover {
+		background: #fafafa;
+	}
+
+	select {
+		padding: 1rem;
 	}
 </style>

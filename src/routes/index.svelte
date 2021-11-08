@@ -65,7 +65,7 @@
 			<h3>Where is Gompa Apartments and why visit Truth or Consequences?</h3>
 			<img src="/pics/map.png" alt="Map" />
 			<p>
-				Truth or Consequence NM, or T or C for short, is a small city about 2 hours south of
+				Truth or Consequences NM, or T or C for short, is a small city about 2 hours south of
 				Albuquerque, NM. Once known as Hot Springs, NM, Truth or Consequences is a small town with a
 				year-round population of slightly more than 6,000. Although it has a large retirement
 				population, it also features a beautiful historically senic main street with taverns,

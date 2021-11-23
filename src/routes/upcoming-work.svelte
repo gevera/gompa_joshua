@@ -10,15 +10,17 @@
 
 <div>
 	<div class="max">
+		<a class="image" href="/heaven-earth-human">
+			<img src="/pics/heaven_earth_human_caligraphy.jpg" alt="Caligraphy" />
+		</a>
 		<Frame
-			><p>
-				What steps need to be done? Heaven is our grand ideas, Earth is the actual diggin and
-				planting and tangible materials and rocks and wood and what we work with, and Man joins to
-				the two. So lest describe the earth where the tire meets the road and look into the real
-				Kntty Gritty
-			</p><br />
-			More on <a href="/heaven-earth-human">Heaven, Earth and Man</a></Frame
-		>
+			><p class="he">
+				Heaven is our big vision and the realm of vast possibilities Earth in this case is the Gompa
+				Apartments, the land and buildings and properties and its resources. Human is our volunteers
+				and human practicality and ability to bring the two (heaven and earth together) grow food,
+				build buildings and healthy societies. Mankind is the medium of that cultivation.
+			</p>
+		</Frame>
 	</div>
 
 	<h2>Description of the renovation vision:</h2>
@@ -27,34 +29,42 @@
 		<div id="why">
 			<Frame>
 				<p>
-					Why do I describe all the renovations plans below? Because this website acts as a
-					communications tool for both the breadth of the bigger vision and the smaller details.. So
-					if you are a possible work stay person thinking of visiting or helping here you can know
-					what we are working on. So let's get right down to the real nitty gritty and into what
-					projects we are doing.
+					We have a big vision for Gompa Apartments over the long haul helping many people live in a
+					sustainable and more balanced healthy way. We want to be a place of good karma
+					contributing to the community and benefit of all our relations. This big vision is
+					accomplished joyfully step by step and it takes the coming together of people with this
+					shared approach to living life intentionally and fully, independently growing and learning
+					together.
 				</p>
 			</Frame>
 		</div>
 		<div id="original">
 			<Frame>
 				<p>
-					The original building, which faces south on 4th street has 5 apartments numbers 1 - 5.
-					This oldest section was likely constructed in the 1920s; but the property records in the
-					town records do not go back that far to give a construction date. It was built with bricks
-					that look like they were either taken from the Elephant Butte Dam project or made locally
-					on site. A lot of the original building in T or C came from the construction site of the
-					Elephant butte Dam. When the dam was finished in 1918 many of the houses were put on
-					barges and floated down the river from the dam site to the town site. The bricks could be
-					from those elephant butte constructions. The original building was 5 apartments but 3 more
-					(#6 #7 and #8) were added on with mostly the same bricks in the same construction style
-					creating the L shape. All the apartments 1-5 are cuter small studio apartments. #6 7 & 8
-					are a bit larger ##6 on the corner is a 1 bedroom. Since 6,7 and 8 are made of the same
-					materials in the same style this was probably done also in the 1920’s not long after the
-					original building was made, In either the late 1940’s or early 1950’s 3 more apartments
-					were added that we call the newer addition extending the L shape to have a bout equal
-					length on both wings. The 3 bedroom house was also built at that time. All the buildings
-					have metal roofs and are either made from the original bricks or the cinderblocks. So the
-					building itself is very durable and long lasting.
+					What we need to do to transform a regular apartment complex into a mindfully based health
+					and sustainably oriently community center?
+				</p>
+				<p>
+					#1 Power transformation:<br /> In NM we have almost 365 days of great sun. We will have our
+					own solar power on all the building roof structures and also on the covered walkways. We are
+					deciding weather to build our own battery storage out of recycled lithium batteries and/or
+					also feed power back into the grid. We will be charging our electric bikes and vehicles with
+					the power from the sun.
+				</p>
+				<p>
+					#2 Renovating the Original historic building. <br />
+					The original building, which faces south on 4th street has 5 apartments numbers 1 - 5. This
+					oldest section was likely constructed in the 1920s; Originally in the winter it was probably
+					heated with wood burning stoves. It was built with bricks that look like they were either taken
+					from the Elephant Butte Dam project completed in 1918 or made locally on site. The exterior
+					of all the buildings needs painting and a few friends have volunteered to do the final decorative
+					style painting on the porch pillars and the side moldings around the building in a Tibetan
+					Gompa style.
+				</p>
+				<p>
+					In either the late 1940’s or early 1950’s 3 more apartments were added that we call the
+					newer addition extending the L shape to have a bout equal length on both wings. The 3
+					bedroom house was also built at that time.
 				</p>
 			</Frame>
 		</div>
@@ -231,7 +241,27 @@
 				</p></Frame
 			>
 		</div>
-
+	</div>
+	
+	<div class="heh">
+		<h2>“Heaven Earth Human”</h2>
+		<Frame>
+			<p class="smaller">
+				The authentic culture of man articulates the resources of energy and intelligence as an
+				appropriate response to the dominion of heaven and earth. It is said that when human culture
+				is in accord with the principles of heaven and earth then the four seasons and the other
+				elements also will work together in harmony. This is the deep spiritual ecology. According
+				to these teachings, mankind can overcome fear and strife and celebrate our destiny by
+				finding our place in the primordial order of heaven and earth. For more on these Ancient but
+				very currently relevant principles click on the links below.
+				<a href="https://everydayink.blogspot.com/2014/06/heaven-earth-and-man.html" target="_blank"
+					>https://everydayink.blogspot.com/2014/06/heaven-earth-and-man.html</a
+				>
+				<a href="https://shambhalatimes.org/2021/08/23/heaven-earth-and-man/" target="_blank"
+					>https://shambhalatimes.org/2021/08/23/heaven-earth-and-man/</a
+				>
+			</p>
+		</Frame>
 	</div>
 </div>
 
@@ -245,10 +275,29 @@
 	}
 
 	.max {
+		margin: 0 auto;
+		display: grid;
+		grid-template-columns: repeat(2, 1fr);
+		gap: 3rem;
+		place-items: center;
+	}
+
+	.he {
+		padding: 2rem;
+		line-height: 2;
+	}
+
+	.heh {
 		max-width: 1024px;
 		margin: 0 auto;
+		margin-top: 4rem;
+		border-top: 1px solid #dadada;
 	}
-	
+
+	.smaller {
+		font-size: 1.2rem;
+	}
+
 	.zen {
 		display: grid;
 		gap: 2rem;
@@ -309,10 +358,14 @@
 	}
 
 	@media (max-width: 960px) {
+		.max {
+			grid-template-columns: repeat(1, 1fr);
+		}
 		.zen {
 			grid-template-columns: repeat(3, 1fr);
 			grid-template-areas:
-				'why original original'
+				'why why why'
+				'original original original'
 				'names names names'
 				'eight eight .'
 				'. six six'

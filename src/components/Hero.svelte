@@ -11,7 +11,13 @@
 	</p>
 	<img src="/pics/aerial.jpg" alt="Aerial" />
 	<p>
-	  Truth or Consequences is a small town that is relatively remote. T or C has a rich indigenous history of spiritual practice and healing, and notably was a retreat area used by the medicine man, Geronimo. The Apache and other Native American tribes often valued this area as a place of peace and restoration. To this day there are many people from indigenous and non-indigenous lineages continuing to be in relationship with this unique place, and a lot of people visit here for healing.
+		Truth or Consequences is a small town that is relatively remote. The Rio Grande runs through the
+		town and because of the water source and large aquifer combined with volcanic and tectonic plate
+		activity underground, there are natural hot springs in the town. This natural wonder has lead T
+		or C to have a rich history of spiritual practice and healing, and for centuries indiginous
+		peoples valued this area as a place of peace and restoration, Notably this land was a retreat
+		area used by the medicine man, Geronimo and to this day there are many people from indigious and
+		non-indigious lineages continuing to be in spiritual relationship with this unique place.
 	</p>
 	<p>
 		Gompa Apartments has eleven apartments units some of which have long term Tenants each of whom <a

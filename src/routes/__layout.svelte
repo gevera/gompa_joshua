@@ -38,7 +38,11 @@
 					physical or mental disability, familial status or any other designation protected by
 					applicable federal, state or local law. We also try to have as little negative impact as
 					possible to the environment and to be as sustainable as possible in our living and to be
-					of benefit to the planet and the natural world around us.
+					of benefit to the planet and the natural world around us. And for all you artists, poets
+					and creative people out there, please come visit us in Truth or Consequences, which is in
+					the state of New Complexico, RUSI, The Re-united States of Imagica. A state where we find
+					we can join together and create a positive future based on the positive potential of every
+					moment. Sarva Mangalam!!!!!
 				</p>
 			</Frame>
 		</div>

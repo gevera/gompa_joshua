@@ -17,35 +17,38 @@
 			<p>
 				In addition to the apartments, the property also has a three bedroom house which used to be
 				a thrift store. Right now the house is just used residentially, but in the near future we
-				hope to renovate it and to make use of the house for a few beneficial non-profit businesses
-				to contribute to the community and welfare of Truth or Consequences.
+				hope to renovate it and to make use of the house for a community acupuncture clinic and a
+				few beneficial non profit businesses to contribute to the community and welfare of Truth or
+				Consequences.
 			</p>
 			<img src="/pics/apts.jpg" alt="Aparments" />
-			<p>
+			<!-- <p>
 				In addition to renovating the house, we are planning to renovate one of the larger
 				apartments into a dorm room / library for lower price accompations and have an open room for
 				quiet meditation.
-			</p>
+			</p> -->
 		</Frame>
 	</div>
 	<div class="projects">
 		<Frame>
 			<h3>Upcoming Projects</h3>
+			<h4>Holistic Recovery healing center</h4>
 			<p>
-				We are hoping to open an Asian health healing and educational center with Indian and Chinese
-				herbal cooking classes, and also provide community acupuncture. In addition we have
-				aspirations to create a few Electric Bicycle/Scooter related businesses (not for profit) to
-				help our transition from fossil fuels and also help younger people find productive ways to
-				spend their time. The first is called <a href="/projects#pimp-my-bike" class="jir"
-					>"Pimp my Bike"</a
-				>
-				where we help people transform regular bikes into electric bikes and pieces of art at the same
-				time. The second wing of the business is called
+				We are hoping to open a holistic Asian health healing center in the main house. This will
+				include not only acupuncture and herbal medicine, but classes on preventive medicine and
+				mind/body healing, including Indian and Chinese herbal cooking classes and classes on
+				theater art and psychology. In addition we have aspirations to have a few Electric
+				Bicycle/Scooter related businesses (not for profit) to help our transition from fossil fuels
+				and also help younger people find productive ways to spend their time. The first is called
+				<a href="/projects#pimp-my-bike" class="jir">"Pimp my Bike"</a> where we help people
+				transform regular bikes into electric bikes and pieces of art at the same time. The second
+				wing of the business is called
 				<a href="/projects#pimp-my-bike" class="jir">"Easy Rider Rentals"</a>
 				where we have a community run bicycle rental business which provides bicycles for local or visiting
-				tourists and spa soakers. The healing aspect of these businesses is inspired movements in Japan
-				called meaningful life therapy and constructive living, which are based on the work of Shoma
-				Morita and other Japanese approaches to working with anxiety and stress.
+				tourists and spa soakers. The healing aspect of these businesses is inspired by movements in
+				Japan called meaningful life therapy and constructive living, which are based on the work of
+				Shoma Morita and other Japanese approaches to working with anxiety and stress.
+
 				<a href="/projects#morita"
 					>For a more detailed description about Shoma Morita and the movements he inspired click
 					here</a
@@ -53,10 +56,17 @@
 			</p>
 			<img src="/pics/bike.jpg" alt="Bike" />
 			<p>
-				Pimp my Bike and Easy Rider are not businesses entirely with an aim at profit, but also are
-				resources of wellness and mental health for the community. <a href="/projects#pimp-my-bike"
-					>For more information on these projects click here</a
-				>
+				Pimp my Bike and Easy Rider are not businesses entirely with an aim at profit, but also
+				resources of mental health for the community. Ask any do it yourselfer or back yard auto
+				mechanic, and you might find they say their work is good for their mind. Many people feel
+				happier when they put their mind into a project. In a similar way, we hope to provide teens
+				and other people with opportunities for constructive living through building and creating
+				electric bicycles and also provide good mentoring experiences to pass the knowledge of how
+				to convert bicycles and other vehicles to electric power. It is our goal to provide good
+				role models and friends to youth, some of whom are finding it hard to find purpose and
+				healthy activities in these sometimes chaotic and challenging times.
+
+				<a href="/projects#pimp-my-bike">For more information on these projects click here</a>
 			</p>
 		</Frame>
 	</div>
@@ -104,7 +114,7 @@
 		<Frame>
 			<a href="/upcoming-work">
 				<h3>Upcoming work projects</h3>
-		    </a>
+			</a>
 		</Frame>
 	</div>
 </div>

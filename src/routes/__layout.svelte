@@ -42,7 +42,7 @@
 					and creative people out there, please come visit us in Truth or Consequences, which is in
 					the state of New Complexico, RUSI, The Re-united States of Imagica. A state where we find
 					we can join together and create a positive future based on the positive potential of every
-					moment. Sarva Mangalam!!!!!
+					moment. And may the coming together of our auspicious activities light up the universe.
 				</p>
 			</Frame>
 		</div>

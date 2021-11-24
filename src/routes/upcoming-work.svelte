@@ -15,10 +15,10 @@
 		</a>
 		<Frame
 			><p class="he">
-				Heaven is our big vision and the realm of vast possibilities Earth in this case is the Gompa
+				Heaven is our big vision and the realm of vast possibilities. Earth in this case is the Gompa
 				Apartments, the land and buildings and properties and its resources. Human is our volunteers
 				and human practicality and ability to bring the two (heaven and earth together) grow food,
-				build buildings and healthy societies. Mankind is the medium of that cultivation.
+				build buildings and healthy societies. Humankind is the medium of that cultivation.
 			</p>
 		</Frame>
 	</div>
@@ -244,7 +244,6 @@
 	</div>
 	
 	<div class="heh">
-		<h2>“Heaven Earth Human”</h2>
 		<Frame>
 			<p class="smaller">
 				The authentic culture of man articulates the resources of energy and intelligence as an

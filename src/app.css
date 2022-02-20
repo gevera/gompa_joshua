@@ -87,3 +87,9 @@ h1, h2, h3, h4 {
 	text-align: center;
 	padding: 2rem 0;
 }
+
+.cntr {
+	display: grid;
+	place-items: center;
+	height: 84vh;
+}

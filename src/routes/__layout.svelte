@@ -14,10 +14,10 @@
 
 <div class="container">
 
-	<div class="cntr">
+	<!-- <div class="cntr">
 		<h1>Website is temporary under construction</h1>
-	</div>
-	<!-- <nav>
+	</div> -->
+	<nav>
 		<Nav />
 	</nav>
 	<main>
@@ -52,7 +52,7 @@
 		</div>
 		<Footer />
 	</footer>
--->
+
 	<div class="pattern-bg" /> 
 </div>
 

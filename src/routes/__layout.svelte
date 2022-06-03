@@ -13,7 +13,6 @@
 {/if}
 
 <div class="container">
-
 	<!-- <div class="cntr">
 		<h1>Website is temporary under construction</h1>
 	</div> -->
@@ -34,26 +33,17 @@
 		<div class="disclaimer">
 			<Frame>
 				<p class="small">
-					Gompa Apartments contributes to the community and provides low cost, affordable housing.
-					We believe human needs like housing and health care are human rights and we believe
-					strongly that equality is a human right. Gompa apartments LLC is an equal opportunity
-					housing provider, Gompa Apartments LLC (DBA Gompa Apartments), provides housing
-					opportunities regardless of race, color, national origin, religion, non-religion, sex,
-					physical or mental disability, familial status or any other designation protected by
-					applicable federal, state or local law. We also try to have as little negative impact as
-					possible to the environment and to be as sustainable as possible in our living and to be
-					of benefit to the planet and the natural world around us. And for all you artists, poets
-					and creative people out there, please come visit us in Truth or Consequences, which is in
-					the state of New Complexico, RUSI, The Re-united States of Imagica. A state where we find
-					we can join together and create a positive future based on the positive potential of every
-					moment. And may the coming together of our auspicious activities light up the universe.
+					Gompa apartments LLC is an equal opportunity housing provider, Gompa Apartments LLC (DBA
+					Gompa Apartments), provides housing opportunities regardless of race, color, national
+					origin, religion, non-religion, sex, physical or mental disability, familial status or any
+					other designation protected by applicable federal, state or local law.
 				</p>
 			</Frame>
 		</div>
 		<Footer />
 	</footer>
 
-	<div class="pattern-bg" /> 
+	<div class="pattern-bg" />
 </div>
 
 <style>

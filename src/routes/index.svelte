@@ -32,41 +32,37 @@
 	<div class="projects">
 		<Frame>
 			<h3>Upcoming Projects</h3>
-			<h4>Holistic Recovery healing center</h4>
+			<h4>Holistic healing center</h4>
 			<p>
-				We are hoping to open a holistic Asian health healing center in the main house. This will
-				include not only acupuncture and herbal medicine, but classes on preventive medicine and
-				mind/body healing, including Indian and Chinese herbal cooking classes and classes on
-				theater art and psychology. In addition we have aspirations to have a few Electric
-				Bicycle/Scooter related businesses (not for profit) to help our transition from fossil fuels
-				and also help younger people find productive ways to spend their time. The first is called
-				<a href="/projects#pimp-my-bike" class="jir">"Pimp my Bike"</a> where we help people
-				transform regular bikes into electric bikes and pieces of art at the same time. The second
-				wing of the business is called
-				<a href="/projects#pimp-my-bike" class="jir">"Easy Rider Rentals"</a>
-				where we have a community run bicycle rental business which provides bicycles for local or visiting
-				tourists and spa soakers. The healing aspect of these businesses is inspired by movements in
-				Japan called meaningful life therapy and constructive living, which are based on the work of
-				Shoma Morita and other Japanese approaches to working with anxiety and stress.
-
-				<a href="/projects#morita"
-					>For a more detailed description about Shoma Morita and the movements he inspired click
-					here</a
+				We have started a holistic healing center in the corner house. At this time we provide
+				classes on preventive medicine and mind/body healing, and cooking classes. We also have
+				classes on western and eastern psychology. In the future we hope to have massage therapy,
+				acupuncture and other modalities of healing provided by professional therapists. In addition
+				due to our experience with solar and electric projects we have aspirations to create a few
+				Electric Bicycle/Scooter related non profits to help our transition from fossil fuels and
+				also help people find productive ways to spend their time. Some of the inspirations for
+				these non profit businesses are from psychological movements in Japan such as
+				<a
+					href="https://www.thirtythousanddays.org/2019/07/living-fully-with-illness-mind-body-medicine-in-japan/"
+					class="jir"
+					target="_blank">meaningful life therapy</a
 				>
+				and
+				<a href=" https://constructiveliving1.weebly.com" class="jir" target="_blank"
+					>constructive living</a
+				>.
 			</p>
 			<img src="/pics/bike.jpg" alt="Bike" />
 			<p>
-				Pimp my Bike and Easy Rider are not businesses entirely with an aim at profit, but also
-				resources of mental health for the community. Ask any do it yourselfer or back yard auto
-				mechanic, and you might find they say their work is good for their mind. Many people feel
-				happier when they put their mind into a project. In a similar way, we hope to provide teens
-				and other people with opportunities for constructive living through building and creating
-				electric bicycles and also provide good mentoring experiences to pass the knowledge of how
-				to convert bicycles and other vehicles to electric power. It is our goal to provide good
-				role models and friends to youth, some of whom are finding it hard to find purpose and
-				healthy activities in these sometimes chaotic and challenging times.
-
-				<a href="/projects#pimp-my-bike">For more information on these projects click here</a>
+				Our healing center and other activities are intended to create positive impact and healthy
+				opportunities for the community. We want to have more individual resources and resilience,
+				health and wellbeing, and community sustainability with positive relationships with each
+				other and the natural world. For example we hope to provide people with opportunities for
+				constructive living through building and creating electric bicycles and also provide good
+				mentoring experiences to pass the knowledge of how to convert bicycles and other vehicles to
+				electric power. It is our goal to provide good role models and friends to youth, some of
+				whom are finding it hard to find purpose and healthy activities in these sometimes chaotic
+				and challenging times.
 			</p>
 		</Frame>
 	</div>
@@ -112,9 +108,11 @@
 	</div>
 	<div class="upcoming">
 		<Frame>
-			<a href="/upcoming-work">
-				<h3>Upcoming work projects</h3>
-			</a>
+			<img
+				src="/pics/heaven_earth_human_caligraphy.jpg"
+				alt="Heaven and Erath"
+				style="object-fit: contain;"
+			/>
 		</Frame>
 	</div>
 </div>

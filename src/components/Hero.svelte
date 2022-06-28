@@ -20,10 +20,10 @@
 		non-indigious lineages continuing to be in spiritual relationship with this unique place.
 	</p>
 	<p>
-		Gompa Apartments has eleven apartments units some of which have long term Tenants each of whom <a
-			href="/tenants">has a special story</a
-		>. Located on a quiet street, but also in the center of town, Gompa Apartment has rentals for
-		short term or longer term visitors. This is ideal for people who want to do secluded spiritual
+		Gompa Apartments is located in a quiet street, but also in the center of town, there is a great
+		view of Turtleback mountant from most of the units. We provide small efficiency and one bedroom
+		apartment rentals for short term or longer term visitors. We also have some units available
+		through the Air BnB website. This is ideal for people who want to do secluded spiritual
 		practices and retreats, or just vacation and visit the hot springs and enjoy the nearby Elephant
 		Butte Lake State park. Its a great place to get away from the hustle and bustle of city life.
 	</p>

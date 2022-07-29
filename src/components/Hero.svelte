@@ -21,11 +21,11 @@
 	</p>
 	<p>
 		Gompa Apartments is located in a quiet street, but also in the center of town, there is a great
-		view of Turtleback mountant from most of the units. We provide small efficiency and one bedroom
+		view of Turtleback mountain from most of the units. We provide small efficiency and one bedroom
 		apartment rentals for short term or longer term visitors. We also have some units available
-		through the Air BnB website. This is ideal for people who want to do secluded spiritual
+		through the AirBnB website. This is ideal for people who want to do secluded spiritual
 		practices and retreats, or just vacation and visit the hot springs and enjoy the nearby Elephant
-		Butte Lake State park. Its a great place to get away from the hustle and bustle of city life.
+		Butte Lake State park. It's a great place to get away from the hustle and bustle of city life.
 	</p>
 </Frame>
 

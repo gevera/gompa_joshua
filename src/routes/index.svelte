@@ -37,8 +37,8 @@
 				We have started a holistic healing center in the corner house. At this time we provide
 				classes on preventive medicine and mind/body healing, and cooking classes. We also have
 				classes on western and eastern psychology. In the future we hope to have massage therapy,
-				acupuncture and other modalities of healing provided by professional therapists. In addition
-				due to our experience with solar and electric projects we have aspirations to create a few
+				acupuncture and other modalities of healing provided by professional therapists. In addition,
+				due to our experience with solar and electric projects, we have aspirations to create a few
 				Electric Bicycle/Scooter related non profits to help our transition from fossil fuels and
 				also help people find productive ways to spend their time. Some of the inspirations for
 				these non profit businesses are from psychological movements in Japan such as

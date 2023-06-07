@@ -94,8 +94,9 @@
 		<Frame>
 			<h3>Historical Downtown</h3>
 			<img src="/pics/downtown.jpg" alt="Downtown" />
-			<h3>Places of Spiritual Piligrimage</h3>
-			<img src="/pics/stupa.jpeg" alt="Stupa" />
+			<!-- <h3>Places of Spiritual Piligrimage</h3>
+			-->
+			<img src="/pics/torc.jpg" alt="Truth or Consequences" />
 			<h3>Elephant Butte Dam and Elephant Butte Lake State Park</h3>
 			<img src="/pics/dam.jpeg" alt="Dam" />
 		</Frame>

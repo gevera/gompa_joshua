@@ -84,7 +84,7 @@
 				places to enjoy nature. T or C is therefore a very unique spot. It's especially unique to
 				have so much water features in the middle of the dry southern part of NM. <a
 					href="/torc"
-					class="slim">(How did T or C got its name?)</a
+					class="slim">(How did T or C get its name?)</a
 				>
 			</p>
 			<img src="/pics/riogrande.jpeg" alt="Rio Grande" />

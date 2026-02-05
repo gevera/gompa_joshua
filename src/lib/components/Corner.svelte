@@ -4,7 +4,6 @@
 		version="1.1"
 		id="svg1253"
 		xmlns="http://www.w3.org/2000/svg"
-		xmlns:svg="http://www.w3.org/2000/svg"
 	>
 		<defs id="defs1250" />
 		<g id="layer1" transform="translate(-63.875292,-67.377507)">

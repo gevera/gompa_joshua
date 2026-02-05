@@ -1,19 +1,15 @@
-<script>
-	import Frame from '../components/Frame.svelte';
-	import Hero from '../components/Hero.svelte';
+<script lang="ts">
+	import { Frame, Hero } from '$lib/components';
 </script>
 
-<svelte:head>
-	<title>Gompa Apartments | Main Page</title>
-</svelte:head>
 <div class="mahayana">
-	<div class="hero">
+	<div class="hero" id="hero">
 		<Hero />
 	</div>
 	<div class="activities">
 		<Frame>
 			<h3>Activities</h3>
-			<img src="/pics/accu.jpg" alt="Accupuncture" />
+			<img src="/pics/accu.jpg" alt="Acupuncture" />
 			<p>
 				In addition to the apartments, the property also has a three bedroom house which used to be
 				a thrift store. Right now the house is just used residentially, but in the near future we
@@ -21,7 +17,7 @@
 				few beneficial non profit businesses to contribute to the community and welfare of Truth or
 				Consequences.
 			</p>
-			<img src="/pics/apts.jpg" alt="Aparments" />
+			<img src="/pics/apts.jpg" alt="Apartments" />
 			<!-- <p>
 				In addition to renovating the house, we are planning to renovate one of the larger
 				apartments into a dorm room / library for lower price accompations and have an open room for
@@ -45,11 +41,17 @@
 				<a
 					href="https://www.thirtythousanddays.org/2019/07/living-fully-with-illness-mind-body-medicine-in-japan/"
 					class="jir"
-					target="_blank">meaningful life therapy</a
+					target="_blank"
+					rel="noopener noreferrer"
+					>meaningful life therapy <span class="sr-only">(opens in new window)</span></a
 				>
 				and
-				<a href=" https://constructiveliving1.weebly.com" class="jir" target="_blank"
-					>constructive living</a
+				<a
+					href="https://constructiveliving1.weebly.com"
+					class="jir"
+					target="_blank"
+					rel="noopener noreferrer"
+					>constructive living <span class="sr-only">(opens in new window)</span></a
 				>.
 			</p>
 			<img src="/pics/bike.jpg" alt="Bike" />
@@ -111,7 +113,7 @@
 		<Frame>
 			<img
 				src="/pics/heaven_earth_human_caligraphy.jpg"
-				alt="Heaven and Erath"
+				alt="Heaven and Earth"
 				style="object-fit: contain;"
 			/>
 		</Frame>

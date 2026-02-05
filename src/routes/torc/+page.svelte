@@ -1,10 +1,6 @@
-<script>
-	import Frame from '../components/Frame.svelte';
+<script lang="ts">
+	import { Frame } from '$lib/components';
 </script>
-
-<svelte:head>
-	<title>Gompa Apartments | T or C Page</title>
-</svelte:head>
 
 <div class="vajrayana">
 	<h1>Truth or Consequences</h1>

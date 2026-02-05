@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 	import Corner from './Corner.svelte';
 </script>
 
@@ -8,7 +8,7 @@
 		<!-- <img src="/corner.svg" alt="Corner Left" /> -->
 	</div>
 	<div class="links">
-		<a href="/#hero" id="name">Gompa Apartments</a>
+		<a href="/#hero" id="name" class="hover:text-brand! transition-colors duration-300">Gompa Apartments</a>
 	</div>
 	<div class="right">
 		<Corner />

@@ -1,0 +1,5 @@
+# Allow crawling everything; point to sitemap
+User-agent: *
+Allow: /
+
+Sitemap: https://gompaapts.com/sitemap.xml

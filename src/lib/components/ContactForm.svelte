@@ -3,20 +3,13 @@
 	let objToSend: { name: string; email: string; tel: string; content: string; hear: string } = { name: '', email: '', tel: '', content: '', hear: '' };
 	const sendForm = async () => {
 		try {
-			let now = new Date().getTime();
-			const resp = await fetch('https://bot.skrymenu.com', {
+			const resp = await fetch('/api/contact', {
 				method: 'POST',
 				headers: {
 					Accept: 'application/json',
 					'Content-Type': 'application/json'
 				},
-				body: JSON.stringify({
-					...objToSend,
-					telephone: `TEL: ${objToSend.tel} | EMAIL: ${objToSend.email}`,
-					message: `MESSAGE: ${objToSend.content} | FROM: ${objToSend.hear}`,
-					time: new Date(now - 3600000 * 11).toLocaleString('us-US'),
-					group: 'gompa_joshua'
-				})
+				body: JSON.stringify(objToSend)
 			});
 
 			if (resp.ok) {

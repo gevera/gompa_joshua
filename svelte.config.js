@@ -1,13 +1,9 @@
-import adapter from "@sveltejs/adapter-static";
+import adapter from "@sveltejs/adapter-vercel";
 
 /** @type {import('@sveltejs/kit').Config} */
 const config = {
   kit: {
-    adapter: adapter({
-      pages: "build",
-      assets: "build",
-      fallback: "404.html",
-    }),
+    adapter: adapter({ runtime: "nodejs22.x" }),
     output: {
         bundleStrategy: 'inline'
     }

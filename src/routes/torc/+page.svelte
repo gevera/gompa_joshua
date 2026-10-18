@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { Frame } from '$lib/components';
+	import { Frame } from '#lib/components/index.js';
 </script>
 
 <div class="vajrayana">

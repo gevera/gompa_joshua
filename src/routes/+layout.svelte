@@ -1,8 +1,8 @@
 <script lang="ts">
   import "./layout.css";
   import { page } from "$app/state";
-  import favicon from "$lib/assets/favicon.svg";
-  import { SITE_URL, DEFAULT_META } from "$lib/seo";
+  import favicon from "#lib/assets/favicon.svg";
+  import { SITE_URL, DEFAULT_META } from "#lib/seo.js";
 
   let { children } = $props();
   import {
@@ -12,7 +12,7 @@
     Footer,
     Nav,
     Modal,
-  } from "$lib/components";
+  } from "#lib/components/index.js";
 
   const seo = $derived(
     page.data?.seo
